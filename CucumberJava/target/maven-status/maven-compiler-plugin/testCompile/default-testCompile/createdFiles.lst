@@ -1,0 +1,11 @@
+stepDefinitions\Tags.class
+stepDefinitions\TestRunner.class
+pagefactory\loginPage_PF.class
+StepsForHooks\HooksDemoSteps.class
+stepDefinitions\stepDefinition.class
+StepsForBackground\backgroundDemoSteps.class
+pages\loginPage.class
+stepDefinitions\homePage.class
+stepDefinitions\TRForBackGroundDemo.class
+stepDefinitions\TRForHooks.class
+stepDefinitions\TR_RunWithSingleTag.class
